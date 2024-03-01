@@ -1,0 +1,8 @@
+../Core/Src/flash_handler.c:23:6:FLASH_erase	48	static
+../Core/Src/flash_handler.c:70:6:FLASH_write_16bit	40	static
+../Core/Src/flash_handler.c:107:6:FLASH_write_32bit	32	static
+../Core/Src/flash_handler.c:143:6:FLASH_write_string	56	dynamic
+../Core/Src/flash_handler.c:179:6:FLASH_read_16bit	16	static
+../Core/Src/flash_handler.c:197:6:FLASH_read_32bit	16	static
+../Core/Src/flash_handler.c:213:6:FLASH_read_string_0xFF	24	static
+../Core/Src/flash_handler.c:240:17:GetPage	24	static
